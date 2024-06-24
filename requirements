@@ -1,0 +1,11 @@
+discord.py
+requests
+beautifulsoup4
+schedule
+colorama
+requests
+os
+json
+time
+iasyncio
+logging
